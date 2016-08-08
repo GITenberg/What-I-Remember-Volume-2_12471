@@ -1,0 +1,26 @@
+_repo: What-I-Remember-Volume-2_12471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Thomas Adolphus
+    alias: Trollope, T. Adolphus (Thomas Adolphus)
+    birthdate: 1810
+    deathdate: 1892
+    gutenberg_agent_id: '1723'
+    url: http://www.gutenberg.org/2009/agents/1723
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trollope, Thomas Adolphus, 1810-1892'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: What I Remember, Volume 2
+url: http://www.gutenberg.org/ebooks/12471
